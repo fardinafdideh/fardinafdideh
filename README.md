@@ -1,4 +1,4 @@
-<h3 align="center">Ph.D. Signal, Image, Speech, Telecom | M.Sc./B.Sc. Biomedical Engineering-Bioelectric</h3>
+<h3 align="center">PhD Signal, Image, Speech, Telecom | MSc / BSc Biomedical Engineering-Bioelectric</h3>
 <!---<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25vYnR0ZWRodGdxbWU1N2I5YWw0NDRjd3Zrczc0djg2ZTNiNTFxcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lJ8ywG1ncm9FXW/giphy.gif">--->
 <h2 align="center">
   <a href="https://afdideh.com/">
